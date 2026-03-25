@@ -9,8 +9,7 @@ Materials for hands-on lab on building AI-powered survey experiments using the [
 | File | Purpose |
 |------|---------|
 | `edsl_workshop.ipynb` | **Main notebook** — step-by-step coding tutorial for students |
-| `edsl_workshop_slides.pptx` | **Lecture slides** — 13-slide deck for the 80-min session |
-| `edsl_instructor_guide.docx` | **Teaching guide** — timing, demo script, rubric, common pitfalls |
+| `edsl_workshop_slides.pptx` | **Lecture slides** |
 
 ---
 
@@ -50,16 +49,15 @@ Or upload to [Google Colab](https://colab.research.google.com/) and run `!pip in
 
 ---
 
-## Workshop Agenda (80 min)
+## Workshop Agenda 
 
-| Time | Activity |
-|------|---------|
-| 0:00 – 0:10 | Setup & imports |
-| 0:10 – 0:25 | Core concepts walkthrough (slides) |
-| 0:25 – 0:45 | Live demo — full pipeline in the notebook |
-| 0:45 – 1:10 | Hands-on exercises (pairs) |
-| 1:10 – 1:20 | Replication game assignment preview |
-| 1:20 – 1:30 | Wrap-up & Q&A |
+| Activity |
+|---------|
+| Setup & imports |
+| Core concepts walkthrough (slides) |
+| Live demo — full pipeline in the notebook |
+| Hands-on exercises (pairs) |
+| Wrap-up & Q&A |
 
 ---
 
@@ -71,8 +69,6 @@ Each student will replicate a published survey finding from a major social scien
 2. Building EDSL agents that match the human sample's demographics
 3. Running the survey and comparing AI vs. human response distributions
 4. Submitting a written report with figures and interpretation
-
-Full rubric and guidance are in `edsl_instructor_guide.docx` and in **Section 8** of the notebook.
 
 ---
 
